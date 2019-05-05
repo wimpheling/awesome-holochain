@@ -38,7 +38,7 @@
 ### Examples
 ### Books
 
-# Projects Using Vue.js
+# Projects Using Holochain
 
 # Components & Libraries
 
@@ -46,8 +46,6 @@
 ## Components
 ## Frameworks
 ## Utilities
-*Utilities not directly related to the UI*
-
 ## Dev Tools
 ## Scaffold
 *Scaffold / boilerplate / seed / starter kits / stack ensemble / generator*
