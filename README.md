@@ -72,6 +72,8 @@ _We list only **active** projects with a **real presence on the web** (website, 
 
 - [Junto](http://junto.foundation/) - Junto is a new breed of social media founded to rebalance our relationship with technology.
 - [hummHive](https://humm.earth/) - secure, radically adaptable ways to create & share content
+- [Holo REA](https://github.com/holo-rea) - REA economic network coordination software built on a Holochain backend. Implements the http://valueflo.ws/ protocol.
+- [Sacred Capital](https://www.sacred.capital/) - Sacred Capital is building distributed reputation fabric that underpins the new economy. Think of it as a wealth system that functions contextually, without an over-arching consensus.
 
 ## New Economy
 
