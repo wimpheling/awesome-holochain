@@ -10,13 +10,14 @@
 
 - [Community](#community)
 
+  - [Youtube Channels](#youtube-channels)
+  <!--
   - [Conferences](#conferences)
   - [Podcasts](#podcasts)
-  - [Youtube Channels](#youtube-channels)
   - [Official Examples](#official-examples)
   - [Tutorials](#tutorials)
   - [Examples](#examples)
-  - [Books](#books)
+  - [Books](#books) -->
 
 - [Projects Using Holochain](#projects-using-holochain)
 
@@ -62,13 +63,13 @@
 - [Holotroopers](https://t.me/holotroopers) - Unofficial HOT token price discussion
 - [Holochain Twitter](https://twitter.com/holochain)
 
-### Conferences
-
-### Podcasts
-
 ### Youtube Channels
 
 - [Youtube channel list](https://www.youtube.com/channel/UC9fNJMIQ9mQ4u9oyoVIqtDQ)
+
+<!-- ### Conferences
+
+### Podcasts
 
 ### Official Examples
 
@@ -77,6 +78,7 @@
 ### Examples
 
 ### Books
+ -->
 
 # Projects Using Holochain
 
