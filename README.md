@@ -10,13 +10,13 @@
 
 - [Community](#community)
 
-- [Conferences](#conferences)
-- [Podcasts](#podcasts)
-- [Youtube Channels](#youtube-channels)
-- [Official Examples](#official-examples)
-- [Tutorials](#tutorials)
-- [Examples](#examples)
-- [Books](#books)
+  - [Conferences](#conferences)
+  - [Podcasts](#podcasts)
+  - [Youtube Channels](#youtube-channels)
+  - [Official Examples](#official-examples)
+  - [Tutorials](#tutorials)
+  - [Examples](#examples)
+  - [Books](#books)
 
 - [Projects Using Holochain](#projects-using-holochain)
 
