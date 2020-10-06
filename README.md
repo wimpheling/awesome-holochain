@@ -92,7 +92,7 @@ _We list only **active** projects with a **real presence on the web** (website, 
 
 # Components & Libraries
 
-- [Holochain Rust](https://github.com/holochain/holochain-rust) - The holochain framework
+- [Holochain](https://github.com/holochain/holochain) - The holochain framework (RSM)
 - [Holoscape](https://github.com/holochain/holoscape) - A complete end-user deployment of a Holochain conductor with UI for administration and a run-time for hApp UIs.
 - [lib3h](https://github.com/holochain/lib3h) - The lib3h p2p communication rust library which Holochain relies on.
 
