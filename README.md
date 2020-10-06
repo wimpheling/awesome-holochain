@@ -86,6 +86,10 @@ _We list only **active** projects with a **real presence on the web** (website, 
 - [Decentr](https://decentr.net/) - Decentr's web browser functions as a “portal to Web 3.0”.
 - [OASIS API / Our World / HoloNET / HoloUnity / .NET HDK Altha v0.1.1](https://github.com/NextGenSoftwareUK/Our-World-OASIS-API-HoloNET-HoloUnity-And-.NET-HDK): The OASIS API is a global universal API that aims to connect everything to everything to eliminate walled gardens/silos. There are a number of open protocols/platforms/networks (such as Gab, Mastodon, Diaspora, WebFinger, SOLID, Holochain, CEPTR Pluggable Protocol, Ethereum, Fediverse, ActivityPub, XMPP & more!) that the OASIS API will support.
 
+# Energy
+
+- [RedGrid](https://redgrid.io/) - Rocket fuel for the clean energy revolution - powered by holochain
+
 # Components & Libraries
 
 - [Holochain Rust](https://github.com/holochain/holochain-rust) - The holochain framework
